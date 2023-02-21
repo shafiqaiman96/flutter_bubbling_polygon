@@ -2,7 +2,7 @@
 
 A new Flutter project for CustomPainter and Animation newbie.
 
-![Demo Playback] https://github.com/shafiqaiman96/flutter_bubbling_polygon/blob/master/demo_video.mp4
+https://user-images.githubusercontent.com/32335674/220359765-3ad47295-24d8-4ea3-a08f-6a863ec96607.mp4
 
 ## Package used
 
